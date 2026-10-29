@@ -46,7 +46,7 @@ My north star is the intersection: **agents that learn by doing, harnesses that 
 
 I'm especially interested in thoughtful engineering, ambitious research ideas, and open-source work that makes advanced AI easier to understand and build on. If you're exploring embodied agents, agent infrastructure, or self-improving systems, I'd love to connect through GitHub.
 
-具身智能，让智能走进真实世界。Harness，让能力变成可靠执行。RSI，让每一次探索都成为下一次进化的起点。
+Embodied intelligence enables intelligence to enter the real world. Harness turns capabilities into reliable execution. RSI makes every exploration the starting point for the next evolution.
 
 ---
 
