@@ -19,7 +19,7 @@
 
 </div>
 
-Hi, I'm **kumizeod**, a software engineering student at **Dalian University of Technology**.
+Hi, I'm **Hongjing Wang**, a software engineering student at **Dalian University of Technology**.
 
 I'm drawn to one ambitious question: **how do we build intelligence that can act in the real world, carry out sustained work, and improve the way it learns?**
 
